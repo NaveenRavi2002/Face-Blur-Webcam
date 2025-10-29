@@ -23,4 +23,4 @@ Make sure you have Python installed (version **3.8+** recommended).
 Then install the required dependencies:
 
 ```bash
-pip install opencv-python streamlit numpy
+pip install opencv-python gradio numpy
